@@ -6,7 +6,9 @@ thema: "physical computing"
 
 **Martin Bruggink**, vakdidacticus informatica bij de lerarenopleiding van de TU Delft
 
-Presentatie: [Physical Computing]({{ site.baseurl }}/themas/physical-computing/bruggink-physical-computing.pdf){:target="_blank"}
+* Presentatie: [Physical Computing]({{ site.baseurl }}/themas/physical-computing/bruggink-physical-computing.pdf){:target="_blank"}
+* Lesmateriaal: [Physical Computing op wikiwijs](https://maken.wikiwijs.nl/135434/Physical_Computing_geheel){:target="_blank"}
+    * Docentenhandleiding: zie wikiwijs, "Over de module".
 
 Physical Computing is één van de keuze thema’s in het nieuwe examenprogramma, hiervoor is een nieuwe lesmodule ontwikkeld.
  De lesmodule leert leerlingen hoe ze zelf op gestructureerde wijze een systeem kunnen ontwerpen en ontwikkelen waarbij sensoren en actuatoren een belangrijke rol spelen.
@@ -23,10 +25,11 @@ De hoofdlijn van het materiaal is:
 
 Het materiaal is uitgewerkt voor Micro:bit, Arduino en Lego Mindstorms.
 
-## Status materiaal (15 oktober 2018)
+## Status materiaal (december 2018)
 
-De testversie van het lesmateriaal is beschikbaar via [www.physicalcomputing.xyz](https://www.physicalcomputing.xyz){:target="_blank"}.
-Er is ook een [docentenhandleiding](https://docs.google.com/document/d/1g4sBQG6LCZN_rk5iydjlOZUhKYoH7FoGcB9tSOera5w/edit?usp=sharing){:target="_blank"} met uitgangspunten, opzet, en uitwerkingen beschikbaar.
+De testversie van het lesmateriaal is beschikbaar via [Physical Computing op wikiwijs](https://maken.wikiwijs.nl/135434/Physical_Computing_geheel){:target="_blank"}.
+Ook de docentenhandleiding met uitgangspunten, opzet, en uitwerkingen is daar te vinden (zie "Over de module").
+
 
 ### Testen
 
@@ -42,8 +45,3 @@ We maken zo veel mogelijk gebruik van bestaande materialen dat al beschikbaar is
 Het materiaal kan nog worden verbeterd op gebruikersgemak van de online omgeving (doorklikken naar volgende pagina, heldere menu’s, hoofdstuknummering).
 
 Het is nog onduidelijk hoe de leerlingen omgaan met het werken met toestandsdiagrammen, een centraal onderdeel van de module.
-
-### Planning
-
-Op korte termijn worden de testresultaten verwacht vanuit de scholen.
-Op basis daarvan werken we aan een vernieuwde versie die voor de kerstvakantie beschikbaar komt.
